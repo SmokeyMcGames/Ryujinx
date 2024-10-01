@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://ryujinx.org/"><img src="https://raw.githubusercontent.com/Ryujinx/Ryujinx/master/distribution/misc/Logo.svg" alt="Ryujinx" width="150"></a>
+  <a href="https://ryujinx.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ryujinx_Logo.png/230px-Ryujinx_Logo.png" alt="Ryujinx" width="150"></a>
   <br>
   <b>Ryujinx</b>
   <br>
@@ -14,25 +14,7 @@
   It was written from scratch and development on the project began in September 2017.
   Ryujinx is available on Github under the <a href="https://github.com/Ryujinx/Ryujinx/blob/master/LICENSE.txt" target="_blank">MIT license</a>.
   <br />
-</p>
 
-<p align="center">
-    <a href="https://github.com/Ryujinx/Ryujinx/actions/workflows/release.yml">
-        <img src="https://github.com/Ryujinx/Ryujinx/actions/workflows/release.yml/badge.svg"
-            alt="">
-    </a>
-    <a href="https://crwd.in/ryujinx">
-        <img src="https://badges.crowdin.net/ryujinx/localized.svg"
-            alt="">
-    </a>
-    <a href="https://discord.com/invite/VkQYXAZ">
-        <img src="https://img.shields.io/discord/410208534861447168?color=5865F2&label=Ryujinx&logo=discord&logoColor=white"
-            alt="Discord">
-    </a>
-    <br>
-    <br>
-    <img src="https://raw.githubusercontent.com/Ryujinx/Ryujinx-Website/master/public/assets/images/shell.png">
-</p>
 
 ## Compatibility
 
